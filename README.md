@@ -16,9 +16,9 @@ WeatherApp is a full-stack web application that provides real-time weather infor
 
 ## Tech Stack:
 
-- Frontend: React with Redux for state management, Axios for API calls, and Material-UI for a modern and responsive UI design.
-- Backend: Node.js with Express.js for handling API requests and caching data efficiently.
-- Database: The app uses a PostgreSQL database to store user preferences and location-related data.
+- Frontend: React with Redux for state management, "" for API calls, and Material-UI for a modern and responsive UI design.
+- Backend: "" for handling API requests and caching data efficiently.
+- Database: The app uses a PostgreSQL? database to store user preferences and location-related data.
 - Weather API: The app integrates with a reputable weather data provider API to fetch real-time weather information and forecasts.
 
 ## Deployment:
